@@ -15,7 +15,15 @@ body {
   min-height: 100vh;
   background: #6320ee;
 }
-
+h1{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(195, 240, 240);
+    margin-right: 130px;
+    
+    
+}
 .container {
   max-width: 700px;
   width: 100%;
